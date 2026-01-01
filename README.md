@@ -4,6 +4,7 @@ This repository contains samples of my work in:
 - Social media post design
 - Instagram reels
 - AI-generated YouTube videos
+- AI-generated content
 
 Tools used:
 - Canva
